@@ -13,7 +13,7 @@ const andre = {
   tools: ["Angular", "React", "RxJs", "Jasmine", "firebase"],
   preprocessor: ["SASS", "LESS"],
   techCommunities: {
-     co-organizer: "MedellinCSS",
+     organizer: "MedellinCSS",
      mentor: "PionerasDev",
   }
 }
