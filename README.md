@@ -1,7 +1,7 @@
 ### Hi, Thanks for visiting my github 💛
 I'm a **frontend engineer** who can't imagine doing anything other than solving problems through software.
 
-- 💼 Currently working at Globant.com
+- 💼 Currently working at Swiss Data Science Center 
 - 🤩 I am big fan of TypeScript, JavaScript, React and Node
 - 🌱 I’m currently learning German and Software Design Patterns
 - 💬 Ask me for a hand if you want to work on reducing the gender gap through technology 😉
